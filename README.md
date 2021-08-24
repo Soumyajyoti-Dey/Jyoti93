@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Jyoti93
-- 👀 I’m interested in medical image processing, machine learning and deep learning.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Soumyajyoti
+- 👀 I’m interested in Medical Image processing, Machine Learning and Deep Learning, Mathematical Modeling.
+- 💞️ I’m looking to collaborate with Research & Development organization
+
 
 <!---
 Jyoti93/Jyoti93 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
