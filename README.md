@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Soumyajyoti
-- 👀 I’m interested in Medical Image processing, Machine Learning and Deep Learning, Mathematical Modeling.
-- 💞️ I’m looking to collaborate with Research & Development organization
+- 👀 I’m interested in Medical Image processing, Machine Learning, Deep Learning and Mathematical Modeling.
+- 💞️ I’m looking to collaborate with Research & Development organizations
 
 
 <!---
